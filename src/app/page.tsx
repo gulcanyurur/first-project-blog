@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button";
+import { Button } from "../components/ui/button";
 import {Checkbox} from "@heroui/checkbox";
 
 export default function Home() {
